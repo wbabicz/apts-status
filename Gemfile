@@ -22,6 +22,9 @@ end
 
 gem 'jquery-rails'
 
+#added for SQL Server Support
+gem 'activerecord-sqlserver-adapter'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
